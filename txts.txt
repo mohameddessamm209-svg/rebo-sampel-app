@@ -1,9 +1,9 @@
-hi mohamed essam youssef elsayse 
-youssef 
-youssef essam 
-hi hi
-essam
-git es
-ad es 
-main windos
-addddddddd
+learen py 
+
+vitual enviromint 
+
+python3 -m venv name VENV-name
+ 
+ source  VENV-name/bin/activate 
+
+ 
