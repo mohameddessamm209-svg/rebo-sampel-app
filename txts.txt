@@ -3,7 +3,10 @@ learen py
 vitual enviromint 
 
 python3 -m venv name VENV-name
- 
+  ##kali//
  source  VENV-name/bin/activate 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+##windows//
 
- 
+cmd  testing-venv\Script\activate.ban
+paworshel testing/Scripts/activate.ps1
