@@ -8,5 +8,10 @@ python3 -m venv name VENV-name
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 ##windows//
 
-cmd  testing-venv\Script\activate.ban
+cmd  testing-venv\Scripts\activate.ban
 paworshel testing/Scripts/activate.ps1
+////////////
+conda activate 
+///////////
+anaconda-vavigator
+conad deactivate
