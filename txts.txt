@@ -25,3 +25,5 @@ conad deactivate
   create notebook
 
 
+import test 
+ from test import any think
