@@ -14,4 +14,14 @@ paworshel testing/Scripts/activate.ps1
 conda activate 
 ///////////
 anaconda-vavigator
+
 conad deactivate
+ opein jupyter in anaconda  ///
+
+  conda activate 
+
+  jupyter notebook
+  
+  create notebook
+
+
