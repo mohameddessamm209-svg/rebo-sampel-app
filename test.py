@@ -54,3 +54,7 @@ with open(files, "r") as object_files2:
         # الطبقة 2: السطور دي جوه الـ for وجوه الـ with (اضغط 2 Tab)
         print(count, all_lines.rstrip())
         count += 1
+
+
+        import csv 
+        
